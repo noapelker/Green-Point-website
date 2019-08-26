@@ -1,0 +1,16 @@
+.info_title {
+    text-align: center;
+    margin: 0 0 10px;
+    color: rgba(55, 55, 55, 0.92);
+    font-family:'Assistant', sans-serif;
+    font-weight:400;
+
+}
+.info_text {
+    text-align: center;
+    margin: 0 0 10px;
+    font-family:'Assistant', sans-serif;
+    font-weight:400;
+
+    color: #373737;
+}
